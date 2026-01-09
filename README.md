@@ -1,72 +1,84 @@
 🐛 wormgpt 🤖
-AI-SEC Tool v2.0 — AI-Powered Security Console
+💥 AI-SEC Tool v2.0 — The Future of Ethical Hacking
 
-🔥 wormgpt is a next-gen AI-assisted ethical hacking environment built in Python.
-It combines state-of-the-art LLM intelligence with Nmap automation, turning your terminal into a smart offensive-security console.
+⚠️ Not just a tool.
+It’s an AI-powered hacking environment.
 
-⚡ MSFconsole-style workflow
-🧠 AI-powered scan analysis & payload generation
-🛰️ Fast recon, clean UI, zero clutter
+wormgpt fuses advanced AI intelligence with real-world security tooling (Nmap) to create a next-gen offensive security console — right inside your terminal.
 
-⭐ If you like AI + Cybersecurity — star this repo to support development.
+💀 Recon → 🧠 AI Analysis → ⚡ Action
+All in one place.
 
-🚀 Why wormgpt?
+⭐ If AI + Cybersecurity excites you — STAR THIS REPO ⭐
 
-✔️ No boring raw scan outputs
-✔️ AI explains what matters
-✔️ Perfect for students, learners & ethical hackers
-✔️ Lightweight, fast, terminal-native
-✔️ Beginner-friendly, pro-level results
+🧠 What Makes wormgpt DIFFERENT?
 
-✨ Features
-🧠 Interactive AI Security Chat
+❌ Boring raw scan outputs
+❌ Manual analysis
+❌ Switching between tools
+
+✅ AI explains risks like a mentor
+✅ Hacker-style interactive console
+✅ Built for learners & pros
+✅ Clean, fast, powerful
+
+Think MSFconsole × AI Brain
+
+🚀 FEATURES THAT HIT HARD
+🤖 AI Security Brain
 
 Powered by Dolphin Mistral 24B (Venice Edition)
 
-Specialized for:
+Trained for:
 
-Security analysis
+Vulnerability reasoning
 
 Exploit logic
 
-Code & payload generation
+Payload & code generation
 
-Chat directly inside the tool like an AI hacking assistant
+Chat with the AI inside the tool
 
-🔑 Get your FREE AI key here:
+🔑 Get your FREE AI key:
 👉 https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free
 
-🎯 Global Target Context
+🎯 Global Target Memory
 
-Set once, reuse everywhere:
+Set once. Forget repetition.
 
 target 10.10.10.1
 
-📦 Workspace Management
+📦 Smart Workspaces
 
-Organize scans cleanly:
+Separate recon. Stay organized.
 
 workspace internal_audit
 
-🛰️ Nmap + AI Analysis
+🛰️ Nmap + AI = POWER
 
-Automated Nmap scans
+Run scans → AI explains:
 
-Instant AI explanation of open ports, services & risks
+Open ports
+
+Services
+
+Possible risks
+
+Attack surface
 
 scan --analyze
 
 🌐 Web Recon
 
-HTTP headers
+HTTP header inspection
 
 robots.txt analysis
 
-Quick surface-level intelligence
+Quick intel, zero noise
 
-💾 AI Payload Generator
+💣 AI Payload Generator
 
-Generate reverse shells instantly:
+Instant reverse shells:
 
 Python
 
@@ -74,27 +86,29 @@ Bash
 
 PHP
 
-More coming soon
+More incoming…
 
-⚡ Pro Hacker UI
+⚡ Hacker-Grade UI
 
 MSF / SQLMap-style console
 
 Syntax highlighting
 
-Clean command system
+Copy-ready payloads
 
-Copy-ready code blocks
+Clean command flow
 
-🛠️ Installation
-1️⃣ Clone the Repository
+🔥 Looks cool. Feels powerful. Works fast.
+
+🛠️ INSTALLATION (2 MIN SETUP)
+🔽 Clone
 git clone https://github.com/ekal12/wormgpt.git
 cd wormgpt
 
-2️⃣ Install Dependencies
+📦 Dependencies
 pip install -r requirements.txt
 
-3️⃣ Install Nmap
+🛰️ Install Nmap
 
 Windows
 
@@ -105,65 +119,73 @@ Linux
 
 sudo apt install nmap
 
-▶️ Running the Tool
-
-✅ Correct run command:
-
+▶️ RUN THE TOOL
 python tool/main.py
 
-📖 Core Commands
-Command	Description
-target <ip/url>	Set global target
-workspace <name>	Create / switch workspace
-scan [args]	Run Nmap scan
-scan --analyze	Scan + AI risk explanation
-web [url]	Web reconnaissance
-payload	Generate reverse shell
-help	Show help menu
-exit	Exit tool
-⚙️ Configuration
 
-Edit settings in:
+🔥 That’s it. You’re inside.
+
+📖 CORE COMMANDS
+Command	Action
+target <ip/url>	Set global target
+workspace <name>	Create/switch workspace
+scan	Run Nmap
+scan --analyze	Nmap + AI risk breakdown
+web <url>	Web recon
+payload	Generate reverse shell
+help	Show commands
+exit	Exit tool
+⚙️ CONFIGURATION
+
+Edit:
 
 config.py
 
-API Keys (Free / Public)
+🔑 API Keys (FREE INCLUDED)
 API_KEYS = [
     "sk-or-v1-..."  # Public OpenRouter keys
 ]
 
 
-🔐 You can replace them with your own OpenRouter key for higher limits.
+💡 Tip: Add your own OpenRouter key for higher limits.
 
-🛡️ Disclaimer
+⚠️ DISCLAIMER (READ THIS)
 
-⚠️ For Educational & Ethical Use Only
+🛡️ Educational & Ethical Use ONLY
 
-Do NOT scan systems without permission
+No permission = No testing
 
-Unauthorized hacking is illegal
+Illegal scanning is a crime
 
-The developer is not responsible for misuse
+Developer is NOT responsible for misuse
 
-Use this tool only in labs or authorized environments
+Use in labs, CTFs, or authorized environments
 
-🌟 Support & Growth
+⭐ SUPPORT THE PROJECT
 
-If you find this project useful:
+If wormgpt helped you:
 
-⭐ Star the repository
+⭐ Star the repo
 🍴 Fork it
-🧠 Contribute ideas
-📢 Share with other learners
+🧠 Suggest features
+📢 Share with hackers & learners
 
-❤️ Author
+Stars = Motivation 🚀
 
-Made with passion for the security & AI community.
+👑 AUTHOR
+
+Built with ❤️ for the AI & Cybersecurity community
 
 📸 Instagram: @itz_ekalx
 
-🔮 Coming Soon
+🔮 WHAT’S COMING NEXT?
 
-insta haking kit 
+CVE-aware AI exploit hints
 
-blutooth flodding
+Auto recon pipelines
+
+Plugin system
+
+GUI version
+
+Dark-mode hacker dashboard 😈
