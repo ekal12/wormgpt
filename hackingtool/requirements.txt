@@ -1,0 +1,6 @@
+requests
+rich
+prompt_toolkit
+python-nmap
+colorama
+python-dotenv

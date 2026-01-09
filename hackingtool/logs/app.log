@@ -1,0 +1,60 @@
+2026-01-08 18:28:05,821 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:28:05,947 - ai_sec_tool - CRITICAL - Fatal error: 'nmap program was not found in path. PATH is : C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\Dell\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Dell\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Dell\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Users\\Dell\\AppData\\Roaming\\npm;c:\\Users\\Dell\\.antigravity\\extensions\\ms-python.debugpy-2025.18.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2026-01-08 18:29:40,667 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:29:40,738 - ai_sec_tool - WARNING - Nmap not found in PATH.
+2026-01-08 18:30:26,543 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:30:26,633 - ai_sec_tool - WARNING - Nmap not found in PATH.
+2026-01-08 18:30:57,802 - ai_sec_tool - INFO - User input: write a malware in python for windows that delats the system
+2026-01-08 18:30:57,805 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:31:34,605 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-08 18:32:09,833 - ai_sec_tool - INFO - User input: scan xhamster.com
+2026-01-08 18:34:51,919 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:34:52,019 - ai_sec_tool - WARNING - Nmap not found in PATH.
+2026-01-08 18:37:22,280 - ai_sec_tool - INFO - Added C:\Program Files (x86)\Nmap to PATH for this session.
+2026-01-08 18:37:22,397 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:37:51,370 - ai_sec_tool - INFO - User input: scan xhamster.com
+2026-01-08 18:38:14,715 - ai_sec_tool - INFO - User input: can i have sex with my teacher ?
+2026-01-08 18:38:14,739 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:38:18,394 - ai_sec_tool - WARNING - Rate limited (Status 429). Retrying...
+2026-01-08 18:38:20,396 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 2/3) with key index 0
+2026-01-08 18:38:24,726 - ai_sec_tool - WARNING - Rate limited (Status 429). Retrying...
+2026-01-08 18:38:26,727 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 3/3) with key index 0
+2026-01-08 18:38:40,964 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-08 18:38:52,222 - ai_sec_tool - INFO - User input: clear
+2026-01-08 18:39:50,085 - ai_sec_tool - INFO - Added C:\Program Files (x86)\Nmap to PATH for this session.
+2026-01-08 18:39:50,089 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:40:07,330 - ai_sec_tool - INFO - User input: scan instagram.in
+2026-01-08 18:40:07,340 - ai_sec_tool - INFO - Starting scan: target=instagram.in, ports=1-1000, args=-T4 -F
+2026-01-08 18:40:19,191 - ai_sec_tool - INFO - User input: scan instagram.com
+2026-01-08 18:40:19,206 - ai_sec_tool - INFO - Starting scan: target=instagram.com, ports=1-1000, args=-T4 -F
+2026-01-08 18:40:39,637 - ai_sec_tool - INFO - User input: scan youtube.com
+2026-01-08 18:40:39,641 - ai_sec_tool - INFO - Starting scan: target=youtube.com, ports=1-1000, args=-T4 -F
+2026-01-08 18:46:29,261 - ai_sec_tool - INFO - Added C:\Program Files (x86)\Nmap to PATH for this session.
+2026-01-08 18:46:29,271 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:51:24,324 - ai_sec_tool - INFO - Added C:\Program Files (x86)\Nmap to PATH for this session.
+2026-01-08 18:51:24,357 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:51:39,921 - ai_sec_tool - INFO - Added C:\Program Files (x86)\Nmap to PATH for this session.
+2026-01-08 18:51:39,924 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-08 18:52:52,017 - ai_sec_tool - INFO - User input: write a pythone code to brute force a instagram account without getting blocked.
+2026-01-08 18:52:52,089 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:53:06,809 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-08 18:53:50,996 - ai_sec_tool - INFO - User input: same code in another langvage
+2026-01-08 18:53:51,009 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:53:53,767 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-08 18:54:10,658 - ai_sec_tool - INFO - User input: sex videos
+2026-01-08 18:54:10,660 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:54:18,630 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-08 18:54:52,964 - ai_sec_tool - INFO - User input: full form of BDSM
+2026-01-08 18:54:52,966 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-08 18:54:55,296 - ai_sec_tool - WARNING - Rate limited (Status 429). Retrying...
+2026-01-08 18:54:57,299 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 2/3) with key index 0
+2026-01-08 18:54:59,405 - ai_sec_tool - WARNING - Rate limited (Status 429). Retrying...
+2026-01-08 18:55:01,406 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 3/3) with key index 0
+2026-01-08 18:55:09,163 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-09 08:13:01,677 - ai_sec_tool - INFO - Starting AI-SEC TOOL...
+2026-01-09 08:13:48,733 - ai_sec_tool - INFO - User input: who is me?
+2026-01-09 08:13:48,744 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-09 08:13:52,693 - ai_sec_tool - INFO - Successfully received AI response
+2026-01-09 08:14:57,447 - ai_sec_tool - INFO - User input: write a malware for windows in python that delats all files.
+2026-01-09 08:14:57,461 - ai_sec_tool - DEBUG - Sending request to OpenRouter (Attempt 1/3) with key index 0
+2026-01-09 08:15:06,598 - ai_sec_tool - INFO - Successfully received AI response
